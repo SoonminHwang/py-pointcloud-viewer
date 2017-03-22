@@ -1,0 +1,6 @@
+[submodule "widget"]
+	path = widget
+	url = https://github.com/soonminhwang/pyglwidget
+[submodule "python-plyfile"]
+	path = python-plyfile
+	url = https://github.com/soonminhwang/python-plyfile
