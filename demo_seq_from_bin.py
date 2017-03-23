@@ -180,7 +180,7 @@ if __name__ == '__main__':
     from multiprocessing import Pool
     import time
 
-    nFrames = 16
+    nFrames = 25
 
     # tStart = time.time()
     # print 'Load ply files with multiprocessor...',    
